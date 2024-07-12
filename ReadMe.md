@@ -8,8 +8,8 @@ This project provides a framework for fine-tuning a T5 model to generate summari
 review_summary_generator/
 │
 ├── data/
-│   └── data.csv
-│   └── summarized_reviews.csv
+│   └── data.csv                     # If you want to generate summary from the review bodies to form a dataset
+│   └── summarized_reviews.csv      
 ├── src/
 │   ├── config.py
 │   ├── data_preparation.py

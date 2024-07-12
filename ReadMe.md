@@ -34,7 +34,7 @@ review_summary_generator/
    pip install -r requirements.txt
    ```
 
-3. Place your dataset in the `data` directory. The dataset should be a CSV file named `data.csv` with columns `product_id`, `avg_rating`, `review_body`, `review_summary`. You can find a sample dataset on Kaggle at this [link](https://www.kaggle.com/datasets/yusufkesmenn/product-reviews-with-summarized-feedback/settings).
+3. Place your dataset in the `data` directory. The dataset should be a CSV file named `summarized_reviews.csv` with columns `product_id`, `avg_rating`, `review_body`, `review_summary`. You can find a sample dataset on Kaggle at this [link](https://www.kaggle.com/datasets/yusufkesmenn/product-reviews-with-summarized-feedback/settings).
 
 ## Usage
 
